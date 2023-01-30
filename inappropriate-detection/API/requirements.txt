@@ -1,0 +1,5 @@
+tensorflow == 2.8.0
+pillow
+numpy
+tensorflow_hub
+protobuf==3.20.*
